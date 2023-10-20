@@ -1,6 +1,7 @@
 # The Portsmouth Recycling App
 
 ## UP2124153 - Alex Edgecombe
+## UP2105083 - James Faulkner
 
 The Portsmouth Recycling App is a free mobile app that provides users with all the information they need to recycle in Portsmouth. The app includes features such as:
 
