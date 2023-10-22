@@ -1,5 +1,8 @@
 # The Portsmouth Recycling App
 
+## UP2124153 - Alex Edgecombe
+## UP2105083 - James Faulkner
+
 The Portsmouth Recycling App is a free mobile app that provides users with all the information they need to recycle in Portsmouth. The app includes features such as:
 
 * Bin collection dates: Users can enter their postcode to view their bin collection dates for all types of waste, including recycling, general waste, and garden waste.  <br>
